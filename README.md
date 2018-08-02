@@ -14,8 +14,6 @@
 <div style="margin-left:20px;">
   <p>The project was written as an ASP.NET Web Application with a C# Backend</p>
   <p><b>A Live Demo can be viewed here:</b> <a href="https://projects.laxer.net/Panorama%20Synthesis/">Panorama Synthesis</a></p>
-  <p>You can download the source code here: <a href="https://projects.laxer.net/Panorama%20Synthesis/project.zip">Source Code</a></p>
-  <p><b>The source code is also attached at the bottom of this page.</b></p>
   
   <p><b>Note:</b> To run the source code you may need to grab the following NuGet Packages: Emgu CV, AForge, AForge Imaging, AForge Imaging, AForge Math, Accord, Accord Imaging, Accord Math, Accord Statistics</p>
 </div>
