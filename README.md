@@ -1,12 +1,5 @@
 # Panorama-Synthesis
-Panorama Synthesis implemented in C#/.Net
 
-{::nomarkdown}
-
-<h1>Project 2 Writeup</h1>
-<h2>Geoff Maggi</h2>
-<h2>Winter 2016</h2>
-<hr/>
 <p><b>Project:</b> Panorama Synthesis</p>
 <p><b>Assignment:</b> <a href="http://web.cecs.pdx.edu/~fliu/courses/cs410/prj2.htm">Link to Assignment Outline</a></p>
 <p><b>Sources:</b></p>
@@ -45,5 +38,3 @@ Panorama Synthesis implemented in C#/.Net
 <p>This project started out as described in the task above, while working on setting up the project I ran into linking issues with OpenCV and decided to go with a few avalible opensource wrappers(See sources above)</p>
 <p>In the libraries I was using SIFT was not avalible due to licensing issues so I started out by using <a href="https://en.wikipedia.org/wiki/Speeded_up_robust_features">SURF</a>.<p>
 <p><b>Note</b>: The program reads in JPEG images in any order and always attempts to stitch them together. If the images aren to a good match you will get interesting results!</p>
-
-{:/}
